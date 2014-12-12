@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>My Experiences</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Vollkorn'>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Welcome to my work experience and coursework page!</h2>
+<p>My coursework displayed here is relevant not only to web design and communications, but also to my English major, since I hope to one day work in that field. Both my work experience and my coursework are quite varied, so I hope to show my interests and skills in many different areas.</p>
+<h3>Experience</h3>
+
+
+				<li>Web Editing Intern</li>
+				<li>Cequix Technology Solutions</li>
+				<li>May 2014-September 2014</li>
+			<ul>
+					<li>Edited personal and professional social media accounts (Facebook and Twitter) as well as professional website</li>
+					<li>Edited materials to be distributed to clients</li>
+					<li>Rewrote event description for Night of Terror event</li>
+					<li>Edited others' rewrites for Night of Terror event</li>
+					<li>Promoted Night of Terror Event through social media</li>
+					<li>Suggested how to further promote professional website through social media</li>
+					</ul>
+				<li>Administrative Assistant</li>
+				<li>Saint Joseph's University Career Development Center</li>
+				<li>May 2013-present</li>
+			<ul>
+					<li>Answer phones</li>
+					<li>Interview potential career counselor candidates</li>
+					<li>Field questions about career development and university in general</li>
+					<li>Schedule and organize appointments for career counselors</li>
+					<li>Assist employers with posting jobs on the university career website</li>
+					<li>Distribute resumes for critique</li>
+					<li>Receive, accept, and distribute mail and packages for the department</li>
+					<li>Assist students and employers in navigating the university career website</li>
+					<li>Alert career counselors and students of appointments</li>
+					<li>Search database for employers/students</li>
+					<li>Search database and collect pertinent employer information for career counselors</li>
+					<li>Assist in editing information packets for prospective students and information for career fairs</li>
+					<li>Assist students in managing and resetting accounts</li>
+					<li>Ensure messages are received by the correct person</li>
+					<li>Attend meetings on various career development issues and topics</li>
+					<li>Open and close office at the beginning and end of the day</li>
+					<li>Offer counselors advice on projects or information from the point of view of a student</li>
+					<li>Assist in producing and posting flyers</li>
+					<li>Assist employers in registering for events</li>
+					<li>Make copies of documents for events</li>
+					<li>Create career fair packets for employers</li>
+					<li>Organize career fair materials</li>
+			</ul>
+				<li>Stagehand</li>
+				<li>Weston Drama Workshop</li>
+				<li>June 2011-July 2012</li>
+			<ul>
+					<li>Built sets for eight shows</li>
+					<li>Painted sets for four shows</li>
+					<li>Set up stage and moved set pieces and props for three shows</li>
+					<li>Changed sets during intermission for four shows</li>
+					<li>Assisted in set-up of sound equipment for two shows</li>
+					<li>Maintained sound effects for one show</li>
+					<li>Organized, prepared and collected microphones and maintained sound effects before and after one show</li>
+			</ul>
+				<li>Stagehand</li>
+				<li>Saint Joseph's University</li>
+				<li>2011-2012</li>
+			<ul>
+					<li>Assisted in building sets for three shows</li> 
+					<li>Painted sets for three shows</li>
+					<li>Set up stage and moved props and scenery for two shows</li>
+					<li>Changed sets during intermission for two shows</li>
+					<li>Assisted in set up of sound equipment for two shows</li>
+					<li>Maintained sound effects for two shows</li>
+					<li>Organized, prepared, and collected microphones before and after two shows</li>
+					<li>Assisted in clean up of stage and theater post-show</li>
+					<li>Patched light board in between shows</li>
+					<li>Tested spotlights as well as floor lights</li>
+					<li>Obtained set pieces/props for shows</li>
+					<li>Assisted in organization of break room for actors</li>
+			</ul>
+				<li>Part-Time Admissions Intern</li>
+				<li>Boston College Office of Graduate Admissions</li>
+				<li>2005-2010</li>
+			<ul>
+					<li>Filed and managed documents, entered into database</li>
+					<li>Assisted with application breakdown</li>
+					<li>Supported the efforts of the admissions office in the area of operations management</li>
+			</ul>
+<h3>Skills</h3>
+			<ul>
+				<li>Program Experience: Microsoft Word, Excel, and Powerpoint</li>
+				<li>Languages: Spanish, written and conversational</li>
+				<li>Berlitz Language Center, Spanish Language Course, Summer 2010</li>
+			</ul>
+<h3>Volunteerism</h3>
+			<ul>
+				<li>Service Council Community Service Initiative, The Rivers School, Fall 2008-Spring 2011</li>
+				<li>Project Jumpstart Literacy Program, Summer 2009-Spring 2011</li>
+				<li>The Christ Child Society, 2004-present</li>
+			</ul>
+<h3>Coursework</h3>
+	<ul>
+		<li>COM 200: Communication Theory and Practice</li>
+		<li>COM 201: Ethics in Communication</li>
+		<li>COM 371: Civic Media</li>
+		<li>COM 372: Web Design and Development</li>
+		<li>COM 465: Advanced Web Design</li>
+		<li>ENG 101: Craft of Language</li>
+		<li>ENG 102: Texts and Contexts</li>
+		<li>ENG 222: Sophomore Seminar: Critical Application to Literature Study</li>
+		<li>ENG 241: Intro to Creative Writing</li>
+		<li>ENG 263: Writing for Organizations</li>
+		<li>ENG 322: American Romantic and Trancendentalist Literature</li>
+		<li>ENG 326: Music and American Literature</li>
+		<li>ENG 331: Modern Drama</li>
+		<li>ENG 402: Shakespeare: Early Works</li>
+		<li>ENG 404: Samuel Beckett and Tom Stoppard</li>
+		<li>ENG 465: History of Journalism</li>
+		<li>ENG 482: Passing Narrative in Black Literature</li>
+	</ul>
+</body>
+</html>

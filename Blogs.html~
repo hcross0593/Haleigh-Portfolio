@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Blogs</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Vollkorn'>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Blogs!</h2>
+<p>This is my professional blog.</p>
+<p><a href="http://hcrossman.us"></a></p>
+<p>This is my personal blog.</p>
+<p><a href="http://vintagecoffeebeans.wordpress.com"></a></p>
+
+
+
+
+</body>
+</html>

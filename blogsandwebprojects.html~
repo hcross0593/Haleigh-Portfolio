@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Blogs</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Vollkorn'>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Blogs and Web Projects!</h2>
+<p>This is my professional blog. It is called <a href="http://hcrossman.us">hcrossman.us</a></p>
+<p>This is my personal blog. It is called <a href="http://vintagecoffeebeans.wordpress.com">vintagecoffeebeans.wordpress.com</a></p>
+</body>
+</html>
